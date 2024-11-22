@@ -1,4 +1,3 @@
-// package SwitchStatements;
 
 import java.util.Scanner;
 
