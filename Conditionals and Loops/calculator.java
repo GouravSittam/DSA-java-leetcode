@@ -17,9 +17,9 @@ public class calculator {
 
             if (op == '+' || op == '-' || op == '*' || op == '/' || op == '%') {
                 // input two numbers
-                System.out.println("Enter two numbers: ");
+                System.out.println("Enter two numbers");
+
                 System.out.print("enter the first number: ");
-                
                 int num1 = sc.nextInt();
                 System.out.print("enter the second number: ");
                 int num2 = sc.nextInt();
