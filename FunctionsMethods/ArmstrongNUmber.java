@@ -6,7 +6,13 @@ public class ArmstrongNUmber {
         System.out.println("Enter a number: ");
         int n = sc.nextInt();
         // boolean ans = isArmstrong(n);
-        System.out.println(isArmstrong(n));
+        // System.out.println(isArmstrong(n));
+
+        for (int i = 100; i <= n; i++) {
+            if (isArmstrong(i)) {
+                System.out.println(i + " is an Armstrong number");
+            }
+        }
 
     }
 
