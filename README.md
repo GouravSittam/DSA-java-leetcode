@@ -16,6 +16,7 @@ This repository contains resources and examples for learning the basics of Java 
 - [Contributing](#contributing)
 - [License](#license)
 
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
