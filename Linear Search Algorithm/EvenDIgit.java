@@ -4,7 +4,11 @@ public class EvenDIgit {
         int[] nums = { 12, 345, 2, 6, 7896 };
         System.out.println(findNumbers(nums));
 
+<<<<<<< HEAD
         // System.out.println(digits(648565));
+=======
+        System.out.println(digits(648565));
+>>>>>>> 0f085a6590270f0c26c5921129ce7a9e4962e45a
 
     }
 
