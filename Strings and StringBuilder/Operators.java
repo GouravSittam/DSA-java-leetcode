@@ -13,6 +13,11 @@ public class Operators {
         // integer will be converted to integer that will call toString()
 
         System.out.println("gobi" + new ArrayList<>());
+        System.out.println("gobi" + new Integer(67));
+
+        String ans = new Integer(78)+""+new ArrayList<>();
+        System.out.println(ans);
+
     }
 
 }
