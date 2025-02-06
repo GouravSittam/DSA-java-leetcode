@@ -1,6 +1,6 @@
 public class fibo {
     public static void main(String[] args) {
-        System.out.println(fib(12));
+        System.out.println(fib(20));
     }
 
     static int fib(int n) {
